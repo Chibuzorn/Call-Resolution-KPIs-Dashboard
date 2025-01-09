@@ -88,7 +88,7 @@ The dataset comprises call data records that include variables such as resolutio
 ---
 
 ## Final Conclusion
-This project demonstrates how Power BI can be leveraged to provide actionable insights into customer service operations. By addressing identified areas such as agent training and technical issue management, the telecommunications company can enhance overall customer satisfaction and operational efficiency. 
+This project demonstrates how Power BI can be used to provide actionable insights into customer service operations. By addressing identified areas such as agent training and technical issue management, the telecommunications company can enhance overall customer satisfaction and operational efficiency. 
 
 The dashboard not only highlights current performance but also serves as a strategic tool for continuous improvement in customer service.
 
