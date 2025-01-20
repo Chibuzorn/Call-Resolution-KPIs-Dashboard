@@ -49,7 +49,7 @@ The dataset comprises call data records that include variables such as resolutio
 ---
 
 ## Dashboard Features
-[Click here to view the dashboard](https://github.com/Chibuzorn/Call-Resolution-KPIs-Dashboard/blob/main/KPI%20Dashboard.png)
+[Click here to view the dashboard](https://github.com/Chibuzorn/Call-Resolution-KPIs-Dashboard/blob/main/Dashboard.png)
 
 1. **Dynamic Visualizations**  
    - The dashboard employs dynamic elements such as slicers for date filtering, allowing users to explore KPIs for specific periods. It provides interactive and real-time insights to support decision-making.
